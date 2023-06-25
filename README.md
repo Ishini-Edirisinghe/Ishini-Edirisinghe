@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishini Edirisinghe</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<center><img src="https://user-images.githubusercontent.com/124574193/246260753-e69899f0-0dcf-471d-be6f-ee04c17a38fd.gif"> </center>
+<img src="https://user-images.githubusercontent.com/124574193/246260753-e69899f0-0dcf-471d-be6f-ee04c17a38fd.gif"  class="center"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishini-edirisinghe&label=Profile%20views&color=0e75b6&style=flat" alt="ishini-edirisinghe" /> </p>
 
