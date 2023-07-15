@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning **HTML,CSS,Java Script**
 
 - 📫 How to reach me **ishiniedirisinghe331@gmail.com**
+- My Portfolio [https://ishini-edirisinghe.github.io/MyPortfolio/](https://ishini-edirisinghe.github.io/MyPortfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
