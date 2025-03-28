@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishini-edirisinghe" alt="ishini-edirisinghe" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,Java Script**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **ishiniedirisinghe331@gmail.com**
 
